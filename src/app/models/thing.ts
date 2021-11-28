@@ -1,5 +1,5 @@
 export interface Thing {
-  uuid: string;
+  id: string;
   name: string;
   description: string;
   amount: number;

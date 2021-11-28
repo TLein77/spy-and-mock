@@ -1,7 +1,7 @@
 import { Thing } from "./thing";
 
 export interface Stuff {
-  uuid: string;
+  id: string;
   name: string;
   things: Thing[];
 }
